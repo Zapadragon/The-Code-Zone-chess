@@ -1,0 +1,77 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAADw/w8AAAAAAP//DwAAAAAAH/8PAP8PAPD///D//w8A//8P8P//D/D///////8PAP///////w8A8P//////DwDw//////8PAAAA8P///w8AAAAA////DwAAAADw//8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blackknight"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEQEAAAAAABERAQAAAAAA8REBABEBABARERAREQEAEREBEBERARAREREREREBABEREREREQEAEBERERERAQAQEREREREBAAAAEBEREQEAAAAAERERAQAAAAAQEREBAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "whiteknight"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8A8AAAD/EQD/AQAA8B/x/x8BAPD/H///EQ/w/x/x/x/xD/D/Ef//H/8P///x///x/w8A8PD///H/DwAA8P////8PAAAA/wAA/w8AAAAAAAD/DwAAAAAAAP8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blackbishop"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AEAAAAR/wD/AQAAEPEfER8BABAR/xHxHwEQEfEfEfERARAR8RER/xEBERHxEREfEQEAEB8R8R8RAQAAEBHxEREBAAAAEf8AEQEAAAAADwARAQAAAAAPABEBAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "whitebishop"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAA8AAAAAAAAPD/AAAAAAD///8AAAAA8P///wDw///w////AP////////8A/////////wD/////////AP////////8A/////////wDw///w////AAAAAAD///8AAAAAAPD//wAAAAAAAPD/AAAAAAAAAP8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blackpawn"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAEAAAAAAAABARAAAAAAAREREAAAAAEBEREQAQEREQERERABEREREREREAEREREREREQARERERERERABEREREREREAEREREREREQAQEREQERERAAAAAAAREREAAAAAABAREQAAAAAAABARAAAAAAAAABEAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "whitepawn"
+    },
+    "image7": {
+        "data": "hwQIAAgAAAAAAAAAAAAAAPD//w/wEf8P8CERD/Af/w8A8A8AAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "picker"
+    },
+    "image8": {
+        "data": "hwQQABAAAAB3dwAAAHB3dwcAAAAAAABwBwAAAAAAAHAHcHd3d3cAcAdwd3d3dwBwAHB3d3d3AAAAcHd3d3cAAABwd3d3dwAAAHB3d3d3AAAAcHd3d3cAAABwd3d3dwAAB3B3d3d3AAAHAAAAAAAAcAcAAAAAAABwBwAAAAAAAHB3dwcAAHB3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "indicator"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////8A/////////wD/////////AADw//////8A/////////wD/////////AP////////8AAPD//////wD/////////AP////////8A/////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blackrook"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREREAEREREREREQARERERERERAAAQEREREREAEREREREREQARERERERERABEREREREREAABAREREREQARERERERERABEREREREREAEREREREREQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "whiterook"
+    },
+    "image12": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAEREBAAAAAAARAAEAEREAABEAEQAREQAAERERABERAAAREREREREAEBAREREREQARERERERERABAQEREREREAABEAEQAREQAAEQARABERAAAREQEAEREAABERAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "whiteking"
+    },
+    "image11": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA//8PAAAAAAD//w8A//8AAP8A/wD//wAA/wD/AP//AAD///////8A8PD//////wD/////////APDw//////8AAP8A/wD//wAA/wD/AP//AAD//w8A//8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blackking"
+    },
+    "image13": {
+        "data": "hwQQABAAAAAAAAAADwAAAAAAAAD/AAAAAADwD/APAAAAAPD/Dw8AAAAAAP8P//8AAAAA8P////8A8A/w/////wDw////////AAAAAAD///8A8P///////wDwD/D/////AADw/w////8AAPD/D///AAAA8A/wDwAAAAAAAP8AAAAAAAAADwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blackqueen"
+    },
+    "image14": {
+        "data": "hwQQABAAAAAAAAAAAQAAAAAAAAARAAAAAAAQARABAAAAABARAQEAAAAAABEBEREAAAAAEBEREREAEAEQEREREQAQERERERERAAAAAAAREREAEBEREREREQAQARARERERAAAQEQEREREAABARARERAAAAEAEQAQAAAAAAABEAAAAAAAAAAQAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "whitequeen"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

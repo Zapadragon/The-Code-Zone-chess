@@ -1,0 +1,38 @@
+{
+    "name": "with music",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "Bishop.ts",
+        "GameManager.ts",
+        "Knights.ts",
+        "Pawn.ts",
+        "Picker.ts",
+        "Sprites.ts",
+        "TilemapManager.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "Roock.ts",
+        "Queen.ts",
+        "King.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.13.9",
+        "pxt": "8.5.2",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
